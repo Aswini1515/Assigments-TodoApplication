@@ -1,4 +1,4 @@
-#TODO - app
+# TODO - app
 
 A todo application for adding todos.
 
